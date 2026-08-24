@@ -1,0 +1,2 @@
+create database ISO27001_Dashboard;
+use ISO27001_Dashboard;
